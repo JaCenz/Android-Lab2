@@ -1,7 +1,7 @@
 package com.example.ankit.recyclerviewwithsearchview;
 
 /**
- * Created by ankit on 17/9/17.
+ * Created by JaCen on 1/11/21.
  */
 
 public class Hero  {
